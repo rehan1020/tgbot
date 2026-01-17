@@ -1,3 +1,5 @@
+# Disclaimer NOTE : Any kind of money Lost is not my responsibility this is for reference only.
+
 # Telegram Signal Trading Bot (Multi-User)
 
 A multi-chain trading bot for groups where each user can trade with their own wallets.
