@@ -1,0 +1,35 @@
+# Ignore environment files with secrets
+.env
+.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Database
+*.db
+positions.db
+
+# Logs
+logs/
+*.log
+
+# Telegram session files
+*.session
+*.session-journal
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
